@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: neue-machina;
+    src: url(./assets/NeueMachina-Light.otf);
+}
